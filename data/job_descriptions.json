@@ -28,5 +28,24 @@
         "responsibilities": "\n- Lead and manage a team of 6 healthcare IT professionals\n- Oversee implementation and maintenance of EHR systems\n- Ensure compliance with HIPAA regulations and healthcare data standards\n- Manage HL7 integrations between clinical systems\n- Drive IT project planning, budgeting, and execution\n",
         "requirements": "\n- Deep knowledge of HIPAA compliance and healthcare data privacy (must have)\n- Experience with HL7 messaging standards (must have)\n- Hands-on experience with EHR systems such as Epic or Cerner (must have)\n- Proven leadership and people management experience (must have)\n- Strong project management skills (must have)\n",
         "nice_to_have": "\n- Programming experience, particularly Python\n- Familiarity with FHIR standards for healthcare data exchange\n"
+    },
+    "JD004": {
+        "id": "JD004",
+        "title": "Data Science Lead",
+        "department": "Analytics Leadership",
+        "about": "We are looking for an experienced Data Science Lead to head our analytics team. You will lead a team of 5 data scientists and engineers, driving the strategy and execution of machine learning initiatives across the organization. You will be responsible for both technical delivery and people management.",
+        "responsibilities": "Lead and manage a team of 5 data scientists and ML engineers.\nDefine and execute the machine learning roadmap for the organization.\nOversee model development, deployment, and monitoring in production.\nDrive collaboration between data science, engineering, and business teams.\nMentor and grow junior data scientists.\nPresent insights and model results to executive stakeholders.",
+        "requirements": "Proven experience leading and managing a data science or ML team (must have).\nStrong Python programming skills (must have).\nHands-on experience with TensorFlow or PyTorch for model development (must have).\nExperience deploying and monitoring ML models in production (must have).\nExcellent communication and stakeholder management skills (must have).\nStrong statistical foundations and analytical thinking (must have).",
+        "nice_to_have": "Experience with Apache Spark for large scale data processing.\nFamiliarity with MLOps tools and practices.\nExperience in healthcare or clinical data science."
+    },
+
+    "JD005": {
+        "id": "JD005",
+        "title": "Clinical Data Analyst",
+        "department": "Healthcare Analytics",
+        "about": "We are seeking a Clinical Data Analyst to bridge the gap between healthcare operations and data analytics. You will work with clinical teams to extract insights from EHR data, ensure data privacy compliance, and build analytical pipelines that support clinical decision making. This is a hybrid role requiring both technical and healthcare domain expertise.",
+        "responsibilities": "Extract, transform, and analyze clinical data from EHR systems.\nBuild and maintain data pipelines using Python and SQL.\nEnsure all data handling complies with HIPAA regulations.\nCollaborate with clinical teams to understand data requirements.\nDevelop dashboards and reports for clinical stakeholders.\nDocument data flows and maintain data dictionaries.",
+        "requirements": "Proficiency in Python for data analysis and pipeline development (must have).\nStrong SQL skills for querying clinical databases (must have).\nKnowledge of HIPAA compliance and healthcare data privacy (must have).\nExperience working with EHR systems such as Epic or Cerner (must have).\nStrong communication skills to work with clinical stakeholders (must have).",
+        "nice_to_have": "Experience with HL7 or FHIR data standards.\nFamiliarity with healthcare data warehousing.\nExperience with data visualization tools such as Tableau or Power BI."
     }
 }

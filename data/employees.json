@@ -116,5 +116,63 @@
                 "text": "Performance Review — Priya Nair (2025)\nPriya is an excellent project manager.\nLeadership: Strong, leads teams with clarity.\nCommunication: Outstanding, one of her greatest strengths.\nHIPAA: Good awareness but not deep technical expertise.\nHL7: Limited hands-on experience, more theoretical knowledge."
             }
         ]
+    },
+    "E007": {
+        "id": "E007",
+        "name": "Raj Mehta",
+        "current_role": "Junior ML Engineer",
+        "department": "AI Research",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Raj Mehta — Junior ML Engineer\nSkills: TF, Py, sklearn, pandas, numpy, Git\nExperience:\n- 3 years in ML roles\n- Built classification models using TF (last used 2025)\n- Data preprocessing with Py and pandas (last used 2025)\n- Used sklearn for model evaluation and tuning (last used 2025)\n- Familiar with Docker containers for deployment\nEducation: B.S. Computer Science"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Raj Mehta (2025)\nRaj shows strong potential as an ML engineer.\nPy skills: Raj writes clean, efficient Py code for data pipelines.\nTF: Good working knowledge of TF for model training.\nCommunication: Raj communicates clearly in team meetings and documents his work well.\nAreas for growth: Needs more experience with production deployments and Docker.\nOverall: Strong technical contributor with good communication skills."
+            },
+            {
+                "type": "peer_review",
+                "text": "Peer Review — Raj Mehta (2025)\nRaj is a collaborative team player.\nHe picks up new tools and frameworks very quickly.\nAlways willing to help teammates debug ML pipelines.\nHis documentation is thorough and helpful."
+            }
+        ]
+    },
+
+    "E008": {
+        "id": "E008",
+        "name": "Lisa Wong",
+        "current_role": "Senior Software Engineer",
+        "department": "Platform Engineering",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Lisa Wong — Senior Software Engineer\nSkills: Python, Apache Spark, SQL, Java, Hadoop, Data Pipelines\nExperience:\n- 12 years in software and data engineering roles\n- Python used extensively in data engineering work (last used 2018)\n- Apache Spark for large scale batch processing (last used 2017)\n- SQL for database design and querying (last used 2019)\n- Hadoop ecosystem experience (last used 2016)\n- Built ETL pipelines and data workflows (last used 2018)\nEducation: M.S. Computer Science"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Lisa Wong (2019)\nLisa is a seasoned engineer with deep technical experience.\nPython: Lisa has strong Python fundamentals from her data engineering work.\nSpark: Extensive Spark experience from previous data platform roles.\nSQL: Expert-level SQL skills demonstrated across multiple projects.\nNote: Lisa has transitioned to platform and infrastructure work\nand has not actively used her data engineering skills in recent years.\nLeadership: Lisa mentors junior engineers effectively."
+            }
+        ]
+    },
+
+    "E009": {
+        "id": "E009",
+        "name": "Carlos Reyes",
+        "current_role": "Healthcare Systems Analyst",
+        "department": "Clinical IT",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Carlos Reyes — Healthcare Systems Analyst\nSkills: Healthcare Data Privacy, HL7 Interface Engine,\nElectronic Health Records, Team Leadership, Agile Project Delivery\nExperience:\n- 6 years in healthcare IT and systems analysis\n- Healthcare data privacy compliance (last used 2026)\n- HL7 interface engine configuration and testing (last used 2025)\n- Electronic health records implementation and support (last used 2026)\n- Led cross functional teams on clinical system rollouts (last used 2026)\n- Agile project delivery for IT initiatives (last used 2025)\nEducation: B.S. Health Information Management"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Carlos Reyes (2026)\nCarlos is an excellent healthcare IT professional.\nHealthcare compliance: Carlos demonstrates deep knowledge of\nhealthcare data privacy regulations and compliance requirements.\nHL7: Strong hands-on experience with HL7 interface engines.\nEHR: Carlos successfully led our Epic module implementation this year.\nLeadership: Carlos is an effective team leader who drives results.\nProject Management: Consistently delivers projects on time and within scope."
+            },
+            {
+                "type": "peer_review",
+                "text": "Peer Review — Carlos Reyes (2026)\nCarlos is one of the most knowledgeable healthcare IT people on our team.\nHis understanding of clinical workflows and data privacy is exceptional.\nGreat communicator and mentor to junior team members."
+            }
+        ]
     }
 }

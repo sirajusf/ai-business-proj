@@ -1,0 +1,32 @@
+{
+
+    "JD001": {
+        "id": "JD001",
+        "title": "Senior Data Engineer",
+        "department": "Healthcare Analytics",
+        "about": "We are looking for a Senior Data Engineer to join our \nHealthcare Analytics team. You will design and maintain large-scale \ndata pipelines that power clinical decision-making across our hospital \nnetwork. You will work closely with data scientists, analysts, and \nclinical stakeholders.",
+        "responsibilities": "\n- Design, build, and maintain scalable data pipelines using Python and Spark\n- Manage and optimize large SQL databases\n- Collaborate with cross-functional teams and lead data engineering initiatives\n- Ensure data quality, reliability, and performance at scale\n- Document data flows and mentor junior engineers\n",
+        "requirements": "\n- Strong proficiency in Python (must have)\n- Experience with Apache Spark for large-scale data processing (must have)\n- Advanced SQL skills (must have)\n- Experience building and maintaining data pipelines (must have)\n- Leadership and team collaboration skills (must have)\n",
+        "nice_to_have": "\n- Experience in healthcare domain or familiarity with clinical data\n- Experience with dbt (data build tool)\n"
+    },
+
+    "JD002": {
+        "id": "JD002",
+        "title": "ML Engineer",
+        "department": "AI Team",
+        "about": "We are hiring an ML Engineer to join our core AI team. \nYou will build, train, and deploy machine learning models that power \nour intelligent product features. You will work in a fast-paced \nenvironment where your models go directly into production.",
+        "responsibilities": "\n- Design and train machine learning models using TensorFlow and PyTorch\n- Deploy and monitor models in production environments\n- Apply statistical analysis to validate model performance\n- Communicate model results and limitations to technical and non-technical stakeholders\n- Write clean, maintainable ML code\n",
+        "requirements": "\n- Strong Python programming skills (must have)\n- Hands-on experience with TensorFlow for model development (must have)\n- Experience deploying ML models to production (must have)\n- Solid understanding of statistics and probability (must have)\n- Strong communication skills to explain model decisions (must have)\n",
+        "nice_to_have": "\n- Experience with PyTorch in addition to TensorFlow\n- Familiarity with Docker for containerized ML deployments\n"
+    },
+
+    "JD003": {
+        "id": "JD003",
+        "title": "Healthcare IT Manager",
+        "department": "Clinical Systems",
+        "about": "We are seeking an experienced Healthcare IT Manager to \noversee our clinical systems team. You will manage a team of 6 IT \nprofessionals and be responsible for the reliability and compliance \nof all clinical technology systems across our organization.",
+        "responsibilities": "\n- Lead and manage a team of 6 healthcare IT professionals\n- Oversee implementation and maintenance of EHR systems\n- Ensure compliance with HIPAA regulations and healthcare data standards\n- Manage HL7 integrations between clinical systems\n- Drive IT project planning, budgeting, and execution\n",
+        "requirements": "\n- Deep knowledge of HIPAA compliance and healthcare data privacy (must have)\n- Experience with HL7 messaging standards (must have)\n- Hands-on experience with EHR systems such as Epic or Cerner (must have)\n- Proven leadership and people management experience (must have)\n- Strong project management skills (must have)\n",
+        "nice_to_have": "\n- Programming experience, particularly Python\n- Familiarity with FHIR standards for healthcare data exchange\n"
+    }
+}

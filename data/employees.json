@@ -1,0 +1,120 @@
+{
+
+    "E001": {
+        "id": "E001",
+        "name": "Alex Rivera",
+        "current_role": "Data Engineer",
+        "department": "Finance",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Alex Rivera — Data Engineer\nSkills: Python, SQL, Apache Spark, Git, Linux\nExperience:\n- 5 years as Data Engineer at current company\n- Built ETL pipelines using Python and SQL\n- Used Apache Spark in 2022 for a batch processing project\n- Strong SQL skills used daily for reporting and analysis\nEducation: B.S. Computer Science"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Alex Rivera (2023)\nPython: Alex demonstrates excellent Python skills. \nHis pipeline work is clean and well-documented.\nSQL: Solid SQL skills, uses it regularly for reporting.\nLeadership: Alex is still developing his leadership skills. \nHe tends to work independently and needs to improve \ncollaboration and mentoring of junior team members.\nOverall: Good contributor, needs growth in soft skills."
+            },
+            {
+                "type": "peer_review",
+                "text": "Peer Review — Alex Rivera (2023)\nAlex is a strong team player and always willing to help.\nHe is a fast learner who picks up new technologies quickly.\nCommunication could be improved in cross-team meetings."
+            }
+        ]
+    },
+
+    "E002": {
+        "id": "E002",
+        "name": "Maria Chen",
+        "current_role": "Data Analyst",
+        "department": "Operations",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Maria Chen — Data Analyst\nSkills: Python, Apache Spark, dbt, Tableau, SQL\nExperience:\n- 6 years in data roles\n- Heavy Spark usage for large-scale analytics (last used 2024)\n- dbt for data transformation pipelines (last used 2024)\n- SQL used 3 years ago primarily, moved to Spark since then\nEducation: M.S. Data Science"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Maria Chen (2024)\nMaria is an exceptional technical contributor.\nHer Spark and dbt skills are top-notch.\nPython: Strong, used in all her projects.\nLeadership: Maria tends to work solo and has not taken \non mentoring responsibilities yet."
+            }
+        ]
+    },
+
+    "E003": {
+        "id": "E003",
+        "name": "James Patel",
+        "current_role": "Software Engineer",
+        "department": "Product",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "James Patel — Software Engineer\nSkills: Python, TensorFlow, Statistics, SQL, Java\nExperience:\n- 4 years software engineering\n- TensorFlow model training (last used 2024)\n- ML model deployment experience in 2024\n- Statistics and probability applied in A/B testing\nEducation: B.S. Computer Science, Minor in Statistics"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — James Patel (2024)\nJames has strong Python and TensorFlow skills.\nHis statistical analysis work is solid.\nCommunication: James communicates clearly with \nboth technical and non-technical stakeholders.\nML Deployment: Has deployed 2 models to production this year."
+            },
+            {
+                "type": "peer_review",
+                "text": "Peer Review — James Patel (2024)\nJames is collaborative and easy to work with.\nHe explains complex ML concepts clearly to the team."
+            }
+        ]
+    },
+
+    "E004": {
+        "id": "E004",
+        "name": "Sarah Kim",
+        "current_role": "ML Research Engineer",
+        "department": "AI Research",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Sarah Kim — ML Research Engineer\nSkills: Python, TensorFlow, PyTorch, Docker, Kubernetes\nExperience:\n- 7 years in ML and AI roles\n- TensorFlow and PyTorch used extensively (last used 2026)\n- Docker for containerized model deployment (last used 2026)\n- Statistics: used 3 years ago in research context\nEducation: Ph.D. Machine Learning"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Sarah Kim (2026)\nSarah is one of our strongest ML engineers.\nTensorFlow and PyTorch: Expert-level proficiency.\nDocker: Excellent containerization skills.\nCommunication: Sarah struggles to communicate \nher research clearly to non-technical stakeholders. \nThis is an area for development."
+            },
+            {
+                "type": "peer_review",
+                "text": "Peer Review — Sarah Kim (2026)\nSarah's technical skills are outstanding.\nShe is detail-oriented and produces high quality work."
+            }
+        ]
+    },
+
+    "E005": {
+        "id": "E005",
+        "name": "David Osei",
+        "current_role": "Healthcare IT Specialist",
+        "department": "Clinical IT",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "David Osei — Healthcare IT Specialist\nSkills: HIPAA Compliance, HL7, EHR Systems (Epic), \nLeadership, Project Management\nExperience:\n- 8 years in healthcare IT\n- HIPAA compliance management (last used 2026)\n- HL7 integration projects (last used 2026)\n- Epic EHR system administration (last used 2026)\n- Led team of 4 for 3 years\n- Project management certification (PMP, 2024)\nEducation: B.S. Health Informatics"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — David Osei (2026)\nDavid is an outstanding healthcare IT professional.\nHIPAA: Deep compliance expertise, our go-to person.\nHL7: Strong integration skills demonstrated this year.\nLeadership: David leads his team with confidence and clarity.\nProject Management: His PMP certification shows, \nprojects are consistently on time and on budget."
+            },
+            {
+                "type": "peer_review",
+                "text": "Peer Review — David Osei (2026)\nDavid is an excellent mentor and team leader.\nHis knowledge of healthcare systems is unmatched."
+            }
+        ]
+    },
+
+    "E006": {
+        "id": "E006",
+        "name": "Priya Nair",
+        "current_role": "IT Project Manager",
+        "department": "Operations IT",
+        "documents": [
+            {
+                "type": "resume",
+                "text": "Priya Nair — IT Project Manager\nSkills: Project Management, HIPAA, Leadership, \nCommunication, HL7, Agile\nExperience:\n- 5 years IT project management\n- HIPAA compliance awareness (last used 2025)\n- HL7: worked with HL7 standards 3 years ago\n- Strong leadership of cross-functional teams\n- Excellent communication skills\nEducation: MBA, B.S. Information Systems"
+            },
+            {
+                "type": "manager_review",
+                "text": "Performance Review — Priya Nair (2025)\nPriya is an excellent project manager.\nLeadership: Strong, leads teams with clarity.\nCommunication: Outstanding, one of her greatest strengths.\nHIPAA: Good awareness but not deep technical expertise.\nHL7: Limited hands-on experience, more theoretical knowledge."
+            }
+        ]
+    }
+}

@@ -99,5 +99,16 @@
   "hl7/fhir data standards": "HL7/FHIR",
   "data visualization tools (tableau/power bi)": "Data Visualization",
   "teamwork": "Teamwork",
-  "epic": "Epic"
+  "epic": "Epic",
+  "ml model training": "Model Training",
+  "ml model design": "Machine Learning Model Design",
+  "leadership and people management": "Leadership",
+  "it team management": "Team Management",
+  "budgeting": "Budgeting",
+  "mentoring and team development": "Team Development",
+  "clinical data analysis": "Clinical Data Analysis",
+  "data visualization": "Data Visualization",
+  "software engineering": "Software Engineering",
+  "detail-oriented": "Attention to Detail",
+  "healthcare systems knowledge": "Healthcare Systems"
 }

@@ -70,5 +70,11 @@
   "IT Budget Planning": "Finance & Operations",
   "TensorFlow or PyTorch": "Machine Learning Frameworks",
   "Machine Learning Strategy": "Machine Learning Frameworks",
-  "HL7/FHIR": "Healthcare Compliance & Standards"
+  "HL7/FHIR": "Healthcare Compliance & Standards",
+  "Model Training": "Machine Learning Frameworks",
+  "Team Management": "Soft Skills & Collaboration",
+  "Budgeting": "Finance & Operations",
+  "Team Development": "Soft Skills & Collaboration",
+  "Clinical Data Analysis": "Data Science & Analytics",
+  "Software Engineering": "Software Engineering"
 }
